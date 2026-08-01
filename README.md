@@ -4,47 +4,50 @@
 
 ## Computer Networks
 
-Learning:
+### Learning:
 - Computer Network Concepts
 
-Tools:
+### Tools:
 - Cisco Packet Tracer
+- Wireshark
+- Nmap
 
 ## Linux
 
-Learning:
+### Learning:
 - Linux Fundamentals
 
-Tools:
+### Tools:
 - Ubuntu
+- Kali Linux
 
 ## Windows
 
-Learning:
+### Learning:
 - Windows Fundamentals
 
-Environment:
+### Tools:
 - Windows 11
 
 ## SQL
 
-Learning:
+### Learning:
 - SQL Fundamentals
+
+### Tools:
+- SQL
 
 ## Programming
 
-Learning:
+### Learning:
 - Python Programming
-- C Programming
 
-Tools:
+### Tools:
 - VS Code
 
-## Practice Platforms
-
+## Practice Platforms:
 - TryHackMe
 - LeetCode
 
-## Goal
-
+## Goal:
 To build Cybersecurity skills and prepare for SOC Analyst role.
